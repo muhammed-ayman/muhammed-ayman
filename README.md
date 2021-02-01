@@ -8,10 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music but I don't have any skills playing it :"
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Oppikn Spotify Playing" width="350" />](https://open.spotify.com/user/la9owyjrd272z00l2ctwhwo6l)
-
 ### Connect with me:
 
 [<img align="left" alt="Oppikn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
