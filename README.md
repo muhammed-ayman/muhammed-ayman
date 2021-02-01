@@ -35,12 +35,10 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
-  <img align="left" alt="Oppikn's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muhammed-ayman&show_icons=true&hide_border=false" />
+<img align="left" alt="Oppikn's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muhammed-ayman&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://www.linkedin.com/in/muhammedayman/
 [twitter]: https://twitter.com/AmbrusGrig
