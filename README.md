@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmbrusGrig?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AmbrusGrig)
 
-## I'm a Physicist, Science Lover, and a Developer!
+## I'm a Physicist, Science Lover, Autodidact, and a Developer!
 
 - :speech_balloon: I’m currently studying High Energy Physics and working as a Full-Stack Web Developer
 - :thought_balloon: 2021 Goals: Contribute more to Open Source projects
