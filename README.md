@@ -50,7 +50,7 @@
 [twitter]: https://twitter.com/AmbrusGrig
 [linkedin]: https://www.linkedin.com/in/muhammedayman/
 [HTML5]: https://developer.mozilla.org/en-us/docs/Web/HTML
-[CSS]: https://developer.mozilla.org/en-us/docs/Web/CSS
+[CSS3]: https://developer.mozilla.org/en-us/docs/Web/CSS
 [MySQL]: https://www.mysql.com/
 [SQL]:  https://developer.mozilla.org/en-us/docs/Glossary/SQL
 [Github]: https://github.com/
