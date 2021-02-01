@@ -4,14 +4,13 @@
 
 ## I'm a Physicist, Science Lover, and a Developer!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently studying and working as a Full-Stack Web Developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love music but I don't have any skills playing it :"
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Oppikn Spotify Playing" width="350" />](https://open.spotify.com/user/la9owyjrd272z00l2ctwhwo6l)
 
 ### Connect with me:
 
