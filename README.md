@@ -4,9 +4,10 @@
 
 ## I'm a Physicist, Science Lover, Autodidact, and a Developer!
 
-- :speech_balloon: I’m currently studying High Energy Physics and working as a Full-Stack Web Developer
-- :thought_balloon: 2021 Goals: Contribute more to Open Source projects
+- :thought_balloon: I’m currently studying High Energy Physics and working as a Full-Stack Web Developer
+- :goal_net: 2021 Goals: Contribute more to Open Source projects
 - :star2: Fun fact: I love music but I don't have any skills playing it :"
+- :speech_balloon: You can find me as **Oppikn#3363** on **Discord** and **Oppikn** on **##php IRC**
 
 ### Connect with me:
 
