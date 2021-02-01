@@ -33,8 +33,6 @@
 <br />
 <br />
 
----
-
 ### :zap: GitHub Stats
 
 <img align="left" alt="Oppikn's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muhammed-ayman&show_icons=true&hide_border=true" />
