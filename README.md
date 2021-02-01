@@ -37,9 +37,6 @@
 
 <img align="left" alt="Oppikn's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muhammed-ayman&show_icons=true&hide_border=true" />
 
-<br />
-<br />
-
 ### Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ayman)](https://github.com/muhammed-ayman/github-readme-stats)
