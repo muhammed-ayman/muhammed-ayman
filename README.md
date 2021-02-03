@@ -1,7 +1,7 @@
 ### Hello World 👋
 I'm Mohammed Ayman, a software engineer, physicist, autodidact, and boffin. I love coding and solving problems. Making high quality products and well-structured code are part of my eternal quest.
 
-### Connect with me:
+### Get in touch
 You can find me on [Twitter][twitter] and [Linkedin][linkedin]. Also, I'm available on **Discord** as **Oppikn#3363** and you'll probably find me on freenode IRC channels as **Oppikn** and most probably on **##php channel**
 
 - 🔭 I’m currently studying High Energy Physics and working as a Full-Stack Web Developer
