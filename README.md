@@ -13,7 +13,7 @@ You can find me on [Twitter][twitter] and [Linkedin][linkedin]. Also, I'm availa
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ayman&layout=compact)](https://github.com/muhammed-ayman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ayman&layout=compact)](https://github.com/muhammed-ayman)
 
 
 [twitter]: https://twitter.com/AmbrusGrig
