@@ -4,7 +4,7 @@ I'm Mohammed Ayman, a software engineer, physicist, autodidact, and boffin. I lo
 ### Get in touch
 You can find me on [Twitter][twitter] and [Linkedin][linkedin]. Also, I'm available on **Discord** as **Oppikn#3363** and you'll probably find me on freenode IRC channels as **Oppikn** and most probably on **##php channel**
 
-- 🔭 I’m currently studying High Energy Physics and working as a Full-Stack Web Developer
+- 🔭 I’m currently studying High Energy Physics & Information Engineering and working as a Full-Stack Web Developer
 - 📄 I'm also working on developing a [PHP MVC framework][mvc]
 - 🎯 2021 Goals: Contribute more to Open Source projects
 - 🎵 Fun fact: I love music but I don't have any skills playing it :"
@@ -15,6 +15,6 @@ You can find me on [Twitter][twitter] and [Linkedin][linkedin]. Also, I'm availa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ayman&layout=compact)](https://github.com/muhammed-ayman)
 
-[twitter]: https://twitter.com/AmbrusGrig
+[twitter]: https://twitter.com/waakywoo
 [linkedin]: https://www.linkedin.com/in/muhammedayman/
 [mvc]: https://github.com/muhammed-ayman/Advanced-PHP-MVC-Framework
