@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello, World! 👋
 I'm Mohammed Ayman, a Software Engineer and Physicist. I love coding and solving problems. Making high quality products and well-structured code are part of my eternal quest.
 
 ### Get in touch
