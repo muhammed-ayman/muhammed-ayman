@@ -7,6 +7,7 @@ You can find me on [Twitter][twitter] and [Linkedin][linkedin]. Also, I'm availa
 ### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ayman&layout=compact)](https://github.com/muhammed-ayman)
+![](https://komarev.com/ghpvc/?username=muhammed-ayman&label=PROFILE+VIEWS)
 
 [twitter]: https://twitter.com/waakywoo
 [linkedin]: https://www.linkedin.com/in/muhammedayman/
