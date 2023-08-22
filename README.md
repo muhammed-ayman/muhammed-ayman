@@ -8,5 +8,5 @@ You can find me on [Twitter][twitter] and [Linkedin][linkedin]. Also, I'm availa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ayman&layout=compact)](https://github.com/muhammed-ayman)
 
-[twitter]: https://twitter.com/oppikn
+[twitter]: https://twitter.com/_muhammedayman
 [linkedin]: https://www.linkedin.com/in/muhammedayman/
